@@ -83,8 +83,3 @@ Single-page book catalog application.
 - LinkedIn: https://www.linkedin.com/in/romanna-brych  
 - Email: mailto:romannabric@gmail.com
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Romanna-Brych&show_icons=true)
